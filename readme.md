@@ -18,4 +18,4 @@ This application does not knowingly collect personal information from children.
 
 **Contact**
 If you have any questions, please contact:
-[Your Email Address]
+[afei268@gmail.com]
