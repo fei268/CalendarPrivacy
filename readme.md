@@ -16,6 +16,9 @@ This application does not use any third-party services that collect user data.
 **Children’s Privacy**
 This application does not knowingly collect personal information from children.
 
+**Picture Privacy**
+The portrait materials used in this system are sourced from Wikimedia Commons.
+
 **Contact**
 If you have any questions, please contact:
 [afei268@gmail.com]
